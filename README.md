@@ -29,7 +29,7 @@ The simulator uses a compact pipeline graph and requires no Neo4j implementation
 - Download the cleaned corpus and trial log
 - Record multiple experimental trials
 - Complete a self-grading conceptual quiz
-- Generate an analytical PDF report with methodology, trial graphs, automatic comparison, observations, and conclusion
+- Generate a downloadable PDF laboratory report
 - Export the complete session as JSON
 - Native Streamlit components only, so light and dark themes both work
 
